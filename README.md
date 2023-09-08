@@ -3,7 +3,7 @@
 Run `pixel2api30DebugAndroidTest` task to run tests with the managed device setup in the `build.gradle` file in the app module.
 
 Current issues:
-1. On windows computers, this task fails with the errors (See See https://issuetracker.google.com/issues/249111286):
+1. On windows computers, this task fails with the errors (See https://issuetracker.google.com/issues/249111286):
 
 ```
 Execution failed for task ':app:pixel2api30Setup'.
@@ -14,4 +14,4 @@ Execution failed for task ':app:pixel2api30Setup'.
      fewer shards.
 ```
 
-However on Mac it works well without any trouble.
+However on Mac computer it works well without any trouble.
